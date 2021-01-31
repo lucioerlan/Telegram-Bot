@@ -1,16 +1,16 @@
-const bot = require('./src/server');
+const bot = require('./src/config');
 
-const help = require('./commands/cmd.help');
-const echo = require('./commands/cmd.echo');
-const cep = require('./commands/cmd.cep');
-const cnpj = require('./commands/cmd.cnpj');
-const currency = require('./commands/cmd.currency');
-const ip = require('./commands/cmd.ip');
-const peoples = require('./commands/cmd.peoples');
-const plate = require('./commands/cmd.plate');
-const andress = require('./commands/cmd.andress');
-const join = require('./events/event.join');
-const left = require('./events/event.left');
+const help = require('./src/controllers/cmd.help');
+const echo = require('./src/controllers/cmd.echo');
+const cep = require('./src/controllers/cmd.cep');
+const cnpj = require('./src/controllers/cmd.cnpj');
+const currency = require('./src/controllers/cmd.currency');
+const ip = require('./src/controllers/cmd.ip');
+const peoples = require('./src/controllers/cmd.peoples');
+const plate = require('./src/controllers/cmd.plate');
+const andress = require('./src/controllers/cmd.andress');
+const join = require('./src/events/event.join');
+const left = require('./src/events/event.left');
 
 bot.onText(/\/help/, help);
 bot.onText(/\/echo (.+)/, echo);
