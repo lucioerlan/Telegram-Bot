@@ -10,7 +10,7 @@
 <p align="center">
   <h3 align="center">
 
-Telegram Bot 🎴
+Telegram Bot 🎲
 
   </h3> 
   <p align="center">
