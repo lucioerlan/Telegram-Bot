@@ -14,7 +14,7 @@ Telegram Bot 🎲
 
   </h3> 
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/67064886/89887420-a229f680-dba4-11ea-8144-f994bd5ba9f4.gif" alt="Logo" >
+    <img src="https://user-images.githubusercontent.com/67064886/106403161-f99a7800-640b-11eb-9b30-2dfabab5d360.gif" alt="Logo" >
     <br />
     <br />
     <a href="https://github.com/lucioerlan/Telegram-Bot/issues">Report Bug</a>
