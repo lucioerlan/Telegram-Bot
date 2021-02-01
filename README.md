@@ -14,7 +14,7 @@ Telegram Bot 🎲
 
   </h3> 
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/67064886/106403161-f99a7800-640b-11eb-9b30-2dfabab5d360.gif" alt="Logo" >
+    <img src="https://user-images.githubusercontent.com/67064886/106403278-87766300-640c-11eb-81dc-e8324bcd6eb2.gif" alt="Logo" >
     <br />
     <br />
     <a href="https://github.com/lucioerlan/Telegram-Bot/issues">Report Bug</a>
@@ -27,7 +27,7 @@ Telegram Bot 🎲
 
 ## 🤔 About The Project
 
-A simple Telegram bot containing 7 help modules for you.
+A simple telegram bot, containing 7 help modules for you to find and manage things.
 
 <br>
 
