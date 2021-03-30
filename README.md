@@ -71,10 +71,7 @@ $ npm start
 #### Or Run Docker 🐳
 
 ```
-$ docker build -t telegram_bot/node-api .
-```
-```
-$ docker run telegram_bot/node-api
+$ docker-compose up -d
 ```
 
 <br>
